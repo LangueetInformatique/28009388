@@ -1,0 +1,1 @@
+ bool parite(short a) ;
